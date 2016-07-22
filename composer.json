@@ -15,6 +15,7 @@
   "extra": {
     "map":[
       ["errors/custom"],["errors/custom"],
+      ["errors/local.xml"],["errors/local.xml"]
     ],
     "auto-append-gitignore": true
   }
