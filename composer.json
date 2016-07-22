@@ -1,9 +1,9 @@
 {
  "name": "snowcommerce/magento-custom-error-page",
   "type": "magento-custom-error-page",
-  "homepage": "https://github.com/ShikhaBhattarai/magento-custom-error-page",
+  "homepage": "https://github.com/ShikhaBhattarai/magento-custom-error-page.git",
   "description": "Snowcommerce Custom Error Page",
-  "minimun-stability": "dev",
+  "minimun-stability": "1.0-dev",
   "authors":[
     {
       "name": "Shikha Bhattarai"
