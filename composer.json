@@ -1,0 +1,21 @@
+{
+ "name": "snowcommerce/magento-custom-error-page",
+  "type": "magento-custom-error-page",
+  "homepage": "https://github.com/ShikhaBhattarai/magento-custom-error-page",
+  "description": "Snowcommerce Custom Error Page",
+  "minimun-stability": "dev",
+  "authors":[
+    {
+      "name": "Shikha Bhattarai"
+    }
+  ],
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  },
+  "extra": {
+    "map":[
+      ["errors/custom"],["errors/custom"],
+    ],
+    "auto-append-gitignore": true
+  }
+}
